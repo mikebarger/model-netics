@@ -181,4 +181,4 @@ Four common approaches to manager selection.
   - cons:
     - can be difficult
 
-What's the point? Consider all of this.  Look at all options.  Weigh the pros/cons.
+What's the point? Use the Yardstick. Consider all of this.  Look at all options.  Weigh the pros/cons.
